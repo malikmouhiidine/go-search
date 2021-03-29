@@ -32,7 +32,7 @@ print("\n")
 
 results = []
 
-for link in search(query, tld="co.in", num=4, stop=4, pause=2):
+for link in search(query, tld="co.in", num=8, stop=8, pause=2):
     reqs = requests.get(link)
     soup = BeautifulSoup(reqs.text, 'html.parser')
     title = get_domain(link) + " link:"
