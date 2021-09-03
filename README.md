@@ -1,4 +1,4 @@
-# **GoSearch** search for anything from your terminal
+# **GoSearch** for anything from your terminal
 
 ## Requirements
 
