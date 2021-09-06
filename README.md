@@ -9,6 +9,6 @@ pip install bs4
 pip install requests
 ```
 
-Using python package google we can get result of google search from python script. We can get link of first n search results.
+Using the python package "google" we can get results from google search engine, With this python script you can get links of first n search results.
 
 ![guide](./guide.gif)
